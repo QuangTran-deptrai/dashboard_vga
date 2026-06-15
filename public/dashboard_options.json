@@ -1,0 +1,3579 @@
+{
+    "combinations": [
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 4060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "RTX A2000",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "RTX A400",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "Nvidia T1000",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "FORSA",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 4070 Super",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 4070 Ti Super",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 4080 Super",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "GTX 1650",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 3050",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 4060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 6600",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 6600 XT",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "Nvidia A10",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 4070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "GTX 1650",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 4070 Super",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 4070 Ti Super",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 4080 Super",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "GTX 1650",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "GTX 1650",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 3050",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 4060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "RTX A4500",
+            "VRAM": "20GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "Nvidia T1000",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "Nvidia T400",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 4060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 4070 Ti",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "FORSA",
+            "Chipset": "GTX 1660 Super",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "FORSA",
+            "Chipset": "RTX 2060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "TB GLOBE",
+            "Chipset": "Nvidia T4",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RX 6900 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 3080",
+            "VRAM": "10GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 4070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 4080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 4090",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 3050",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 3060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RX 6600",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 3050",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 4070 Super",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 4070 Ti SUPER",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 4070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 4080 Super",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NEO FORZA",
+            "Chipset": "GTX 1660 Super",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 3080",
+            "VRAM": "10GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 6600 XT",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 6800",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 4090",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 3050",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RX 6600",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 4070 Super",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 4070 Ti SUPER",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 4080 Super",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "Intel Arc A580",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 6600",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 7800 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 7900 XTX",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 4060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "POWERCOLOR",
+            "Chipset": "RX 550",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "POWERCOLOR",
+            "Chipset": "RX 7800 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 4070 Super",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 4070 Ti Super",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 3080 Ti",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "TB GLOBE",
+            "Chipset": "Nvidia A2",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 4070 Super",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 4070 Ti SUPER",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 6700 XT",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 6800",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "HP",
+            "Chipset": "RTX A2000",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "KOREA E",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia T4",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 4070 Super",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 4070 Ti SUPER",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 4080 Super",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "Nvidia A2",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "GTX 1650",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 4060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "GeForce GT 1030",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 3080",
+            "VRAM": "10GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 3080",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 3070",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 3060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "GTX 1660 Super",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "GTX 1660 Ti",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 2060",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 2060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "GeForce GT 1030",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "GeForce GT 1030",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "FORSA",
+            "Chipset": "RTX 3070",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "GeForce GT 1030",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 3050",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "GeForce GT 710",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "LENOVO",
+            "Chipset": "RTX 3080",
+            "VRAM": "10GB"
+        },
+        {
+            "Brand": "LENOVO",
+            "Chipset": "RTX 4080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "HP",
+            "Chipset": "RTX A3000",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 4080 Super",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 4060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 4070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 3060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "RTX 5000",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "Nvidia T400",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 4080 Super",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "KOREA E",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "EVGA",
+            "Chipset": "RTX 3080",
+            "VRAM": "10GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "GTX 1660 Super",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 4090",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 3060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia A16",
+            "VRAM": "64GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia A30",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 4070 Ti SUPER",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "FORSA",
+            "Chipset": "RTX 3050",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "GeForce GT 1030",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 3070 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "Quadro P2200",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "WINFOX",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "WINFOX",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 7900 GRE",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RX 6800",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 3050",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 4060",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 7700 XT",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 7800 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 7900 GRE",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 7900 XT",
+            "VRAM": "20GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 7900 XT",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 7600",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 7600",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 6900 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX A400",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "POWERCOLOR",
+            "Chipset": "RX 7600",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "POWERCOLOR",
+            "Chipset": "RX 7900 XTX",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "GeForce GT 1030",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX A5000",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "GeForce GT 1030",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 4060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX A2000",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 3050",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 550",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 3050",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 3090 Ti",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "AORUS",
+            "Chipset": "RTX 4070 Super",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "PALIT",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "FORSA",
+            "Chipset": "RTX 2060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "YOUNGJIN HI-TECH",
+            "Chipset": "RTX 4060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 3090",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX A400",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 4070 Ti",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 3090",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 3070",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 3080",
+            "VRAM": "10GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 6700 XT",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia A40",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "ASL",
+            "Chipset": "RTX 2060 Super",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "RTX 2070 Super",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASL",
+            "Chipset": "RTX 3070",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 6800 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RX 7900 XT",
+            "VRAM": "20GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 3080",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "LENOVO",
+            "Chipset": "RTX 4090",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RX 7600",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "MANLI",
+            "Chipset": "RTX 3050",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "MANLI",
+            "Chipset": "RTX 4080 Super",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 2060 Super",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RX 7600",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RX 7800 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "GTX 1650",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "GTX 1650",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 3050",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "Nvidia T1000",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 4070 Super",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ADVANTECH",
+            "Chipset": "RTX A400",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX A2000",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "FORSA",
+            "Chipset": "RX 550",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 6700XT",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 6600XT",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "POWERCOLOR",
+            "Chipset": "RX 6500 XT",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "POWERCOLOR",
+            "Chipset": "RX 7900 GRE",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 3050",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 4080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX A6000",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "RTX 3050",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "RTX 4060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX A6000",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "RTX 4000",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "LENOVO",
+            "Chipset": "RTX 3500",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 3070 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 4080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "TB GLOBE",
+            "Chipset": "NVIDIA Tesla L4",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "GEFORCE",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 4070 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia A100",
+            "VRAM": "80GB"
+        },
+        {
+            "Brand": "ANT TEC",
+            "Chipset": "Nvidia T1000",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 3060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 3080 Ti",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 3060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "EURESYS",
+            "Chipset": "Coaxlink Quad G3",
+            "VRAM": "1GB"
+        },
+        {
+            "Brand": "SPARKLE",
+            "Chipset": "intel Arc A770",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "SPARKLE",
+            "Chipset": "Intel Arc A580",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "SPARKLE",
+            "Chipset": "Intel Arc A750",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "HPE",
+            "Chipset": "Nvidia T4",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "AMD",
+            "Chipset": "Radeon Pro W7900",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "GeForce GT 710",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 3060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 2060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 3050",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "AORUS",
+            "Chipset": "RTX 4080 Super",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX A5000",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "RTX A6000",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "FORSA",
+            "Chipset": "RTX 3050",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "Nvidia T4",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ARKTEK",
+            "Chipset": "GTX 1660 Super",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "ARKTEK",
+            "Chipset": "RX 550",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "WINWAY STORAGE",
+            "Chipset": "Nvidia A30",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RX 7900 XTX",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "Nvidia A30",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "EKF",
+            "Chipset": "RTX 3000",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "QFI",
+            "Chipset": "Nvidia T4",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "HPE",
+            "Chipset": "NVIDIA A10",
+            "VRAM": "40GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia A2",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia L4",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "FORSA",
+            "Chipset": "RTX 4070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "SHUM KONG",
+            "Chipset": "RX 580",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "RTX 2000 ADA",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "RTX 6000 ADA",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 2070 Super",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 2080 Super",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "GTX 1660",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "GTX 1650",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ARKTEK",
+            "Chipset": "GeForce G210",
+            "VRAM": "1GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX A2000",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RX 6800 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ANT TEC",
+            "Chipset": "Quadro A2000",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 3050",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 3050",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "GeForce GT 710",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "TESLA V100",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 6500 XT",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "Intel Arc A750",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 7600",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 7900 XT",
+            "VRAM": "20GB"
+        },
+        {
+            "Brand": "PALIT",
+            "Chipset": "RTX 4060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "HPE",
+            "Chipset": "Nvidia H100",
+            "VRAM": "80GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "GTX 1660 Ti",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "WINWAY STORAGE",
+            "Chipset": "Nvidia L40",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 8000",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 6900 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 3090",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 4090",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RX 6500 XT",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ARISTOCARAT",
+            "Chipset": "Quadro K1200",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ARISTOCARAT",
+            "Chipset": "Quadro P1000",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "AORUS",
+            "Chipset": "RTX 4070 Ti Super",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "T400",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia A100",
+            "VRAM": "40GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 4090",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "GTX 1660 Super",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "HPE",
+            "Chipset": "Nvidia L40",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "Nvidia A40",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "GTX 1050 Ti",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "GTX 1660 Super",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "RTX 2060",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "RX 550",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "RX 580",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "GTX 750",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RX 550",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 4080 Super",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RX 6650 XT",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GEFORCE",
+            "Chipset": "Geforce GT 710",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "HP INC",
+            "Chipset": "RTX 5000",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ARKTEK",
+            "Chipset": "RX 580",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ADVANTECH",
+            "Chipset": "Nvidia T1000",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 4080 Super",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "RTX 1660 Super",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "KOREA E",
+            "Chipset": "RTX 4070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 4070 Super",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 6000 ADA",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "LINKVIEW",
+            "Chipset": "Nvidia T4",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "Quadro RTX 3000",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "RX 580",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "Nvidia A16",
+            "VRAM": "64GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "NVIDIA Tesla V100",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "GeForce GT 630",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Quadro K1200",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Quadro P1000",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RX 6500 XT",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ADVANTECH",
+            "Chipset": "RTX 4000",
+            "VRAM": "20GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX A1000",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX A400",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "BIOSTAR",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "RTX 4000",
+            "VRAM": "20GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "RTX 4500 ADA",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "RTX A1000",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "RTX A400",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "JIESHENG",
+            "Chipset": "GeForce GT 1030",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "JIESHENG",
+            "Chipset": "RX 550",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "JIESHENG",
+            "Chipset": "RX 580",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia L40",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "GTX 1050 Ti",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "Nvidia T1000",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "Nvidia P620",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 4070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "ADVANTECH",
+            "Chipset": "Quadro RTX 2000 ADA",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "RTX A6000",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "HPE",
+            "Chipset": "Nvidia A30",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "MAXSUN",
+            "Chipset": "RTX 4060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "GTX 1060",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "HPE",
+            "Chipset": "Nvidia A2",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "QFI",
+            "Chipset": "RTX A5000",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "QFI",
+            "Chipset": "NVIDIA A10",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "SIS DISTRIBUTION",
+            "Chipset": "NVIDIA Tesla L4",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "HPE",
+            "Chipset": "Nvidia A40",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "RX 550",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "AXLE",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "HPE",
+            "Chipset": "NVIDIA Tesla V100S",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "GeForce GT 1030",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "GTX 1660 Ti",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "RTX 3070",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "JINGKING",
+            "Chipset": "RX 550",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "RX 550",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "Nvidia A10",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "Nvidia A2",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "RTX A5000",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "ADVANTECH",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "NEO FORZA",
+            "Chipset": "GeForce GT 1030",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "NEO FORZA",
+            "Chipset": "RTX 2060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "NEO FORZA",
+            "Chipset": "RTX 3060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "NEO FORZA",
+            "Chipset": "RTX 3070",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GEFORCE",
+            "Chipset": "RTX 4090",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "FULIAN",
+            "Chipset": "RTX A5000",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "Nvidia L40",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "MATROX",
+            "Chipset": "Matrox G450",
+            "VRAM": "512MB"
+        },
+        {
+            "Brand": "ADLINK",
+            "Chipset": "RTX A4000",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "Radeon PRO W7800",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "SPARKLE",
+            "Chipset": "intel Arc A380",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "HPE",
+            "Chipset": "Nvidia L4",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "HUAYI",
+            "Chipset": "RTX A5000",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "NEO FORZA",
+            "Chipset": "GTX 1050 Ti",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "HP",
+            "Chipset": "RTX 5000",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ESTORE",
+            "Chipset": "Tesla L4",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 4000",
+            "VRAM": "20GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 4070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "Geforce GT 710",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 2000 ADA",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "LENOVO",
+            "Chipset": "MegaRAID 9400",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ESTORE",
+            "Chipset": "NVIDIA A5000",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "TB GLOBE",
+            "Chipset": "RTX A6000",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "RTX 2060",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "Geforce GT 730",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "RTX 1660S",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "ONEXPLAYER",
+            "Chipset": "Radeon RX 7800M XT",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ONEXGPU",
+            "Chipset": "Navi 32",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RX 8800 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 4000 ADA",
+            "VRAM": "20GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX A5000",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia T1000",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RX 9070 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "RTX 5880 ADA",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "RTX 2060 Super",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "GTX 1050 Ti",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ELITEGROUP",
+            "Chipset": "RX 6500",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RX 7800 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RX 9070",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "PATRIOT",
+            "Chipset": "Nvidia T1000",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 5080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RX 7600",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ADVANTECH",
+            "Chipset": "Nvidia T1000",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 4000",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "RX 5700 XT",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "RX 6700 XT",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "SANGFOR",
+            "Chipset": "Tesla T4",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "PCWINMAX",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RX 9070 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "UNIKA",
+            "Chipset": "RX 580",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 5090",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 5080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 5080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NEO FORZA",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RX 9070",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 5080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "QFI",
+            "Chipset": "Nvidia A2",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 5080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 5080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 5070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 5070 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia H100",
+            "VRAM": "80GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 5070 Ti",
+            "VRAM": "18GB"
+        },
+        {
+            "Brand": "AORUS",
+            "Chipset": "RTX 5080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "AORUS",
+            "Chipset": "RTX 5090",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 5090",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "FORSA",
+            "Chipset": "GTX 1070",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 5070 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 5070",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 5090",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 4500 ADA",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 7700 XT",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "AMD",
+            "Chipset": "Radeon PRO W7500",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 5070 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 9070",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 9070 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 9070 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 5070",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "LINKVIEW",
+            "Chipset": "RTX 4000",
+            "VRAM": "20GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 5070 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 5070",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 5070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 5070 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 5070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "AORUS",
+            "Chipset": "RTX 5070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "QFI",
+            "Chipset": "NVIDIA Tesla L4",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 5080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 5070",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 5070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "AORUS",
+            "Chipset": "RTX 5070 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "FORSA",
+            "Chipset": "RTX 550",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ASL",
+            "Chipset": "GTX 3070",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 5070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 5070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "ORIN",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "Intel Arc B570",
+            "VRAM": "10GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "Intel Arc B580",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 7600",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 9070",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 5080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RX 9060",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "TB GLOBE",
+            "Chipset": "RTX 4500",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "AORUS",
+            "Chipset": "RX 9070 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "QFI",
+            "Chipset": "Nvidia L40",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 5060",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Quadro T400",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ASL",
+            "Chipset": "RTX 3050",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "EMTEK",
+            "Chipset": "GTX 1050",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "STELLAR",
+            "Chipset": "NVIDIA Tesla T4",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 5070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "AORUS",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RX 9060 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RX 9060 XT",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "HUAYI",
+            "Chipset": "Nvidia H100",
+            "VRAM": "80GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "PALIT",
+            "Chipset": "RTX 5070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "PALIT",
+            "Chipset": "RTX 5070 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "PALIT",
+            "Chipset": "RTX 5080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "TB GLOBE",
+            "Chipset": "Quadro GV100",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "MANLI",
+            "Chipset": "RTX 5070 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MANLI",
+            "Chipset": "RTX 5080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MANLI",
+            "Chipset": "RTX 5070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "WINFOX",
+            "Chipset": "RX 580",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "RTX 5000",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 4070 Ti",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 5060",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "LEDERSUN",
+            "Chipset": "Nvidia L40S",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "SPARKLE",
+            "Chipset": "Intel Arc B570",
+            "VRAM": "10GB"
+        },
+        {
+            "Brand": "SPARKLE",
+            "Chipset": "Intel Arc B580",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "GTX 1660 Super",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "GTX 750",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "GTX 1060",
+            "VRAM": "3GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "GTX 750",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "RX 580",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ADLINK",
+            "Chipset": "Coaxlink Quad G3",
+            "VRAM": "1GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 5060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 5070",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "KEYUE TIMES",
+            "Chipset": "RTX A4500",
+            "VRAM": "20GB"
+        },
+        {
+            "Brand": "TB GLOBE",
+            "Chipset": "Nvidia L40S",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "MANLI",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "ASL",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "AORUS",
+            "Chipset": "RTX 5060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 5060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RX 9060 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "PALIT",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 5060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 5060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "MANLI",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MANLI",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RX 9060 XT",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 5070",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "JING YU",
+            "Chipset": "Radeon R7 350",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 5060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "TB GLOBE",
+            "Chipset": "RTX A5000",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 5070",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 5060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 9060 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "SAPPHIRE",
+            "Chipset": "RX 9060 XT",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX A2",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX A5000",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "RTX 5000 ADA",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "SIMORCHIP",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "SIMORCHIP",
+            "Chipset": "Polaris 20",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "RTX 3060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "PELADN",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 5070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 9060 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "PALIT",
+            "Chipset": "RTX 5060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "PALIT",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia L40 ADA",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "GALAX",
+            "Chipset": "GTX 1060",
+            "VRAM": "3GB"
+        },
+        {
+            "Brand": "ASL",
+            "Chipset": "GTX 1660 Super",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "POWERCOLOR",
+            "Chipset": "RX 7600",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "POWERCOLOR",
+            "Chipset": "RX 9070 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "POWERCOLOR",
+            "Chipset": "RX 9060 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "POWERCOLOR",
+            "Chipset": "RX 9060 XT",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "RX 9060 XT",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "X",
+            "Chipset": "GTX 750",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "HUAYI",
+            "Chipset": "RTX 5000",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "Nvidia A5000",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "NINJA",
+            "Chipset": "GTX 1660 Super",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "GTX 750Ti",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "SANGFOR",
+            "Chipset": "Nvidia L40S",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "MANLI",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 4000",
+            "VRAM": "20GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 5880 ADA",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "Radeon R7 240",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 5050",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "GTX 1650",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "HUAYI",
+            "Chipset": "Nvidia L40",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "RTX 5050",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 5050",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RTX 5050",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 4080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "PELADN",
+            "Chipset": "GTX 1660 Super",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "PELADN",
+            "Chipset": "RX 550",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "INNO3D",
+            "Chipset": "RTX 5050",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "SIMORCHIP",
+            "Chipset": "RX 5700",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "SIMORCHIP",
+            "Chipset": "RX 5700 XT",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "SIMORCHIP",
+            "Chipset": "RX 580",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "JW SUPPLY",
+            "Chipset": "RX 6600",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "QFI",
+            "Chipset": "RTX 6000",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "JINGSHA",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "JINGSHA",
+            "Chipset": "GTX 960",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia L40S",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 4070 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 4060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "TB GLOBE",
+            "Chipset": "Nvidia A30",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "HUAYI",
+            "Chipset": "Nvidia T4",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 5090",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 5050",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "GeForce GT 1030",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "RTX 2060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "UHOP TECH",
+            "Chipset": "Nvidia A2",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "UHOP TECH",
+            "Chipset": "Nvidia L40",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "LEADTEK",
+            "Chipset": "RTX PRO 6000",
+            "VRAM": "96GB"
+        },
+        {
+            "Brand": "LENOVO",
+            "Chipset": "RTX 4000",
+            "VRAM": "20GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "GTX 750Ti",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "RTX 2060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "HP",
+            "Chipset": "Nvidia T1000",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "HP",
+            "Chipset": "Nvidia T600",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ADVANTECH",
+            "Chipset": "Quadro T400E",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "HP",
+            "Chipset": "RTX A6000",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "SIMORCHIP",
+            "Chipset": "GTX 1660 Super",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 2080 Ti",
+            "VRAM": "11GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "GTX 1060",
+            "VRAM": "3GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "GTX 1060",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "RTX 2060 Super",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "RX 6600",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "RX 6300",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "VENTUS",
+            "Chipset": "RTX 4060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 5090",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "GTX 1660 Super",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "RTX 5000 ADA",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "RTX 3070",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "GTX 750TI",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "TESLA Ampere A2",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "RX 6600",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 5060",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 5060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Tesla L4",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "HP",
+            "Chipset": "RTX A2000",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Tesla A10",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "INTEL",
+            "Chipset": "Intel Arc B580",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "COLORFUL",
+            "Chipset": "RTX 5070 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "EKF",
+            "Chipset": "Nvidia T1000",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 5060",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 4500 ADA",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia H200",
+            "VRAM": "128GB"
+        },
+        {
+            "Brand": "INTEL",
+            "Chipset": "Intel Arc Pro B50",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 5070 Super",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "Radeon AI PRO R9700",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "HUANANZHI",
+            "Chipset": "RX 550",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "RX 550",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "RX 560",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX PRO 6000",
+            "VRAM": "96GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia L40S ADA",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "NVIDIA Ampere A2",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "Radeon R9700 AI TOP",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "PNY",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "WISTRON",
+            "Chipset": "Nvidia H200",
+            "VRAM": "141GB"
+        },
+        {
+            "Brand": "HP",
+            "Chipset": "RTX A4000",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX Pro 4000",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX Pro 4500",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX Pro 5000",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia H100",
+            "VRAM": "94GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX Pro 2000",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "T-WOLF",
+            "Chipset": "RX 560",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 5070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "ARKTEK",
+            "Chipset": "RX 550",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia H200",
+            "VRAM": "141GB"
+        },
+        {
+            "Brand": "X",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "GEFORCE",
+            "Chipset": "RTX 5060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "AMD Radeon R7 240",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 6000 ADA",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "BARCO",
+            "Chipset": "AMD Radeon Pro",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "SIMORCHIP",
+            "Chipset": "RTX 3050",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "SIMORCHIP",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "HP",
+            "Chipset": "RTX A1000",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 5070 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ARKTEK",
+            "Chipset": "GTX 1660 Ti",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 5000 ADA",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX A400",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX A5000",
+            "VRAM": "20GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "Nvidia T1000",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "WINFOX",
+            "Chipset": "RX 550",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "SPARKLE",
+            "Chipset": "B60",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 2080 Ti",
+            "VRAM": "22GB"
+        },
+        {
+            "Brand": "AMD",
+            "Chipset": "RADEON PRO VII",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX PRO 6000",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 3070",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 3060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 2060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 4090",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "GTX 1050 Ti",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "GTX 1660 Super",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 2060",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "ZOTAC",
+            "Chipset": "RTX 2070 Super",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ADVANTECH",
+            "Chipset": "RTX A1000",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "MAXSUN",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX Pro 5000",
+            "VRAM": "72GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 2000 ADA",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX A1000",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "HP",
+            "Chipset": "RTX 3500",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GEFORCE",
+            "Chipset": "RTX 5070 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "QUADRO RTX8000",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "GEFORCE",
+            "Chipset": "RTX 5070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia T400",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia H100",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "HPE",
+            "Chipset": "Nvidia H200",
+            "VRAM": "141GB"
+        },
+        {
+            "Brand": "GEFORCE",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "ONDA",
+            "Chipset": "GeForce GT 730K",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "GEFORCE",
+            "Chipset": "RTX 5060Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX 4000 ADA",
+            "VRAM": "20GB"
+        },
+        {
+            "Brand": "EKF",
+            "Chipset": "Nvidia A2",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "R9700 AI TOP",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Turing T4",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "JGINYUE",
+            "Chipset": "RTX 3050",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ADVANTECH",
+            "Chipset": "Quadro RTX 3000",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "ARKTEK",
+            "Chipset": "GeForce GT 730",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Nvidia Turing T4",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "UNIKA",
+            "Chipset": "RX 560",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "UNIKA",
+            "Chipset": "RX 7600",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "UNIKA",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "UNIKA",
+            "Chipset": "GeForce GT 1030",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "UNIKA",
+            "Chipset": "GTX 1050",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "ADVANTECH",
+            "Chipset": "RTX A400",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "RTX 4000 ADA",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "PELADN",
+            "Chipset": "RTX 3090",
+            "VRAM": "24GB"
+        },
+        {
+            "Brand": "ASROCK",
+            "Chipset": "intel Arc A380",
+            "VRAM": "6GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "Nvidia L40S",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "RTX 3050",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GAINWARD",
+            "Chipset": "RTX 5060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GAINWARD",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "GAINWARD",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "GAINWARD",
+            "Chipset": "RTX 5070",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "GAINWARD",
+            "Chipset": "RTX 5080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX A4000",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "GeForce GT 610",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Quadro GV100",
+            "VRAM": "32GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "Nvidia T4",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "Geforce GT 1030",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "AMD",
+            "Chipset": "RX 9060 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "UGREEN",
+            "Chipset": "GT 730K",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "MAXSUN",
+            "Chipset": "RTX 5060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "MAXSUN",
+            "Chipset": "RTX 5060 Ti",
+            "VRAM": "16GB"
+        }
+    ]
+}
