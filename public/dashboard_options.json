@@ -3574,6 +3574,21 @@
             "Brand": "MAXSUN",
             "Chipset": "RTX 5060 Ti",
             "VRAM": "16GB"
+        },
+        {
+            "Brand": "WINFOX",
+            "Chipset": "GT 730",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "WINFOX",
+            "Chipset": "GTX 1060",
+            "VRAM": "3GB"
+        },
+        {
+            "Brand": "WINFOX",
+            "Chipset": "GTX 1050",
+            "VRAM": "4GB"
         }
     ]
 }
