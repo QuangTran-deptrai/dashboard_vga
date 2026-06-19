@@ -13,6 +13,8 @@ export default function Dashboard() {
   const [vrams, setVrams] = useState<string[]>([]);
   const [chartDataMap, setChartDataMap] = useState<any>({});
   const [currentChartData, setCurrentChartData] = useState<any[]>([]);
+  const [comboStatus, setComboStatus] = useState<string>('');
+  const [comboLastRealDate, setComboLastRealDate] = useState<string>('');
 
   const [kpiPredPrice, setKpiPredPrice] = useState<number | null>(null);
   const [kpiPredChange, setKpiPredChange] = useState<number | null>(null);
@@ -80,19 +82,28 @@ export default function Dashboard() {
   useEffect(() => {
     if (selectedBrand && selectedChipset && selectedVram) {
       const key = `${selectedBrand}|${selectedChipset}|${selectedVram}`;
-      const data = chartDataMap[key] || [];
-      setCurrentChartData(data);
+      const comboData = chartDataMap[key];
+      if (comboData && comboData.history) {
+        // Cấu trúc mới: {status, last_real_date, history: [...]}
+        setCurrentChartData(comboData.history);
+        setComboStatus(comboData.status || '');
+        setComboLastRealDate(comboData.last_real_date || '');
+      } else {
+        setCurrentChartData([]);
+        setComboStatus('');
+        setComboLastRealDate('');
+      }
     }
   }, [selectedBrand, selectedChipset, selectedVram, chartDataMap]);
 
   // Update KPIs
   useEffect(() => {
-    // 1. Gia Du Bao Tuan Toi
+    // 1. Gia Du Bao Tuan Toi — tìm dòng future (actual === null && predicted !== null)
     if (currentChartData.length > 0) {
-      const futureRow = currentChartData[currentChartData.length - 1];
-      const lastActualRow = currentChartData.length > 1 ? currentChartData[currentChartData.length - 2] : null;
+      const futureRow = currentChartData.find((r:any) => r.actual === null && r.predicted !== null);
+      const lastActualRow = currentChartData.slice().reverse().find((r:any) => r.actual !== null);
       
-      if (futureRow && futureRow.actual === null) {
+      if (futureRow && futureRow.predicted) {
         setKpiPredPrice(futureRow.predicted);
         if (lastActualRow && lastActualRow.actual) {
           setKpiPredChange(((futureRow.predicted - lastActualRow.actual) / lastActualRow.actual) * 100);
@@ -100,7 +111,7 @@ export default function Dashboard() {
           setKpiPredChange(null);
         }
       } else {
-        setKpiPredPrice(futureRow.predicted);
+        setKpiPredPrice(null);
         setKpiPredChange(null);
       }
     } else {
@@ -108,18 +119,21 @@ export default function Dashboard() {
       setKpiPredChange(null);
     }
 
-    // 2. Gia Thi Truong (Multi-brand)
+    // 2. Gia Thi Truong (Multi-brand) — đọc từ cấu trúc mới .history
     if (selectedChipset && selectedVram && Object.keys(chartDataMap).length > 0) {
       let total = 0;
       let count = 0;
       Object.keys(chartDataMap).forEach(key => {
         const [b, c, v] = key.split('|');
         if (c === selectedChipset && v === selectedVram) {
-          const history = chartDataMap[key];
-          const lastActual = history.slice().reverse().find((r:any) => r.actual !== null);
-          if (lastActual) {
-            total += lastActual.actual;
-            count += 1;
+          const comboData = chartDataMap[key];
+          // Chỉ tính combo đang active
+          if (comboData && comboData.status === 'active' && comboData.history) {
+            const lastActual = comboData.history.slice().reverse().find((r:any) => r.actual !== null);
+            if (lastActual) {
+              total += lastActual.actual;
+              count += 1;
+            }
           }
         }
       });
@@ -224,7 +238,27 @@ export default function Dashboard() {
             <h2 className="text-3xl font-bold text-white mb-2">
               Dự báo giá: <span className="text-[#00f2ff]">{selectedBrand} {selectedChipset} {selectedVram}</span>
             </h2>
-            <p className="text-[#b9cacb]">Phân tích chi tiết giá bán thực tế và mức giá dự báo theo tuần.</p>
+            <div className="flex items-center gap-3 mt-1">
+              <p className="text-[#b9cacb]">Phân tích chi tiết giá nhập thực tế và mức giá dự báo theo tuần.</p>
+              {comboStatus === 'discontinued' && (
+                <span className="inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1 rounded-full bg-[#93000a]/20 text-[#ffb4ab] border border-[#93000a]/40">
+                  <span className="w-2 h-2 rounded-full bg-[#ffb4ab]"></span>
+                  Đã ngưng nhập
+                </span>
+              )}
+              {comboStatus === 'active' && (
+                <span className="inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1 rounded-full bg-[#00a572]/10 text-[#4edea3] border border-[#00a572]/30">
+                  <span className="relative flex h-2 w-2">
+                    <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#4edea3] opacity-75"></span>
+                    <span className="relative inline-flex rounded-full h-2 w-2 bg-[#4edea3]"></span>
+                  </span>
+                  Đang hoạt động
+                </span>
+              )}
+            </div>
+            {comboStatus === 'discontinued' && comboLastRealDate && (
+              <p className="text-[#ffb4ab]/70 text-xs mt-1">Lần nhập cuối: {comboLastRealDate}</p>
+            )}
           </div>
           <div className="flex items-center gap-2 bg-[#00a572]/10 text-[#4edea3] px-4 py-2 rounded-full border border-[#00a572]/30">
             <span className="relative flex h-2.5 w-2.5">
@@ -329,15 +363,18 @@ export default function Dashboard() {
               </thead>
               <tbody className="divide-y divide-[#2d3449]">
                 {currentChartData.map((row, idx) => {
-                  const isFuture = row.actual === null;
-                  const error = !isFuture ? ((row.predicted - row.actual) / row.actual * 100).toFixed(2) : '-';
+                  const isFuture = row.actual === null && row.predicted !== null;
+                  const hasActual = row.actual !== null && row.actual !== undefined;
+                  const hasPredicted = row.predicted !== null && row.predicted !== undefined;
+                  const canCalcError = hasActual && hasPredicted;
+                  const error = canCalcError ? ((row.predicted - row.actual) / row.actual * 100).toFixed(2) : null;
                   return (
                     <tr key={idx} className={`hover:bg-[#131b2e]/50 transition-colors ${isFuture ? 'bg-[#00f2ff]/5' : ''}`}>
                       <td className="p-4 text-[#dae2fd]">{row.date} {isFuture && <span className="ml-2 text-xs text-[#00f2ff] bg-[#00f2ff]/10 px-2 py-0.5 rounded">Future</span>}</td>
-                      <td className="p-4 text-white font-medium">{row.actual ? row.actual.toLocaleString() : '-'}</td>
-                      <td className="p-4 text-[#00f2ff] font-medium">{row.predicted.toLocaleString()}</td>
-                      <td className={`p-4 ${Number(error) > 0 ? 'text-[#ffb4ab]' : 'text-[#4edea3]'}`}>
-                        {isFuture ? '-' : `${Number(error) > 0 ? '+' : ''}${error}%`}
+                      <td className="p-4 text-white font-medium">{hasActual ? row.actual.toLocaleString() : '-'}</td>
+                      <td className="p-4 text-[#00f2ff] font-medium">{hasPredicted ? row.predicted.toLocaleString() : '-'}</td>
+                      <td className={`p-4 ${error !== null && Number(error) > 0 ? 'text-[#ffb4ab]' : 'text-[#4edea3]'}`}>
+                        {error !== null ? `${Number(error) > 0 ? '+' : ''}${error}%` : '-'}
                       </td>
                       <td className="p-4 text-[#b9cacb]">{row.volume || '-'}</td>
                     </tr>
