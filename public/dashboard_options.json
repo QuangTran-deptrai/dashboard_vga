@@ -3589,6 +3589,26 @@
             "Brand": "WINFOX",
             "Chipset": "GTX 1050",
             "VRAM": "4GB"
+        },
+        {
+            "Brand": "SIMORCHIP",
+            "Chipset": "GTX 750Ti",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "SIMORCHIP",
+            "Chipset": "RTX 3070",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "SIMORCHIP",
+            "Chipset": "RX 6500 XT",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "MAXSUN",
+            "Chipset": "Intel Arc B580",
+            "VRAM": "12GB"
         }
     ]
 }
