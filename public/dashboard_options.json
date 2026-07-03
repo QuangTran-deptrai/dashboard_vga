@@ -3551,26 +3551,6 @@
             "VRAM": "16GB"
         },
         {
-            "Brand": "MSI",
-            "Chipset": "Geforce GT 1030",
-            "VRAM": "4GB"
-        },
-        {
-            "Brand": "AMD",
-            "Chipset": "RX 9060 XT",
-            "VRAM": "16GB"
-        },
-        {
-            "Brand": "UGREEN",
-            "Chipset": "GT 730K",
-            "VRAM": "2GB"
-        },
-        {
-            "Brand": "MAXSUN",
-            "Chipset": "RTX 5060",
-            "VRAM": "8GB"
-        },
-        {
             "Brand": "MAXSUN",
             "Chipset": "RTX 5060 Ti",
             "VRAM": "16GB"
@@ -3608,6 +3588,41 @@
         {
             "Brand": "MAXSUN",
             "Chipset": "Intel Arc B580",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "MSI",
+            "Chipset": "Geforce GT 1030",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "AMD",
+            "Chipset": "RX 9060 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ONDA",
+            "Chipset": "GT 730K",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "MAXSUN",
+            "Chipset": "RTX 5060",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "NINJA",
+            "Chipset": "RX 580",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "ASUS",
+            "Chipset": "GT 710",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "GIGABYTE",
+            "Chipset": "RX 9070",
             "VRAM": "12GB"
         }
     ]
