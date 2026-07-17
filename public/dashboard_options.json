@@ -3624,6 +3624,26 @@
             "Brand": "GIGABYTE",
             "Chipset": "RX 9070",
             "VRAM": "12GB"
+        },
+        {
+            "Brand": "NINJA",
+            "Chipset": "RTX 3060",
+            "VRAM": "12GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "RTX 5080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "Tesla A16",
+            "VRAM": "64GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "RTX 4080",
+            "VRAM": "16GB"
         }
     ]
 }
