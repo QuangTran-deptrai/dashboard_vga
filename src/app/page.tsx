@@ -224,7 +224,18 @@ export default function Dashboard() {
             <Calendar className="w-5 h-5 text-[#00f2ff] shrink-0 mt-0.5" />
             <div className="text-xs space-y-1">
               <p><span className="text-[#b9cacb]">Dữ liệu Train:</span> <br/><b className="text-white">01/01/2024 - Hiện tại</b></p>
-              <p className="mt-2"><span className="text-[#b9cacb]">Mốc Dự Báo:</span> <br/><b className="text-[#4edea3]">Tới 30/06/2026</b></p>
+              <p className="mt-2"><span className="text-[#b9cacb]">Mốc Dự Báo:</span> <br/><b className="text-[#4edea3]">{(() => {
+                // Tự động lấy ngày dự báo từ chart data
+                const keys = Object.keys(chartDataMap);
+                for (const k of keys) {
+                  const combo = chartDataMap[k];
+                  if (combo?.history) {
+                    const futureRow = combo.history.find((r:any) => r.actual === null && r.predicted !== null);
+                    if (futureRow) return `Tới ${futureRow.date}`;
+                  }
+                }
+                return 'Đang cập nhật...';
+              })()}</b></p>
             </div>
           </div>
         </div>
