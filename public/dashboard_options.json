@@ -3551,6 +3551,26 @@
             "VRAM": "16GB"
         },
         {
+            "Brand": "MSI",
+            "Chipset": "Geforce GT 1030",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "AMD",
+            "Chipset": "RX 9060 XT",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "ONDA",
+            "Chipset": "GT 730K",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "MAXSUN",
+            "Chipset": "RTX 5060",
+            "VRAM": "8GB"
+        },
+        {
             "Brand": "MAXSUN",
             "Chipset": "RTX 5060 Ti",
             "VRAM": "16GB"
@@ -3591,26 +3611,6 @@
             "VRAM": "12GB"
         },
         {
-            "Brand": "MSI",
-            "Chipset": "Geforce GT 1030",
-            "VRAM": "4GB"
-        },
-        {
-            "Brand": "AMD",
-            "Chipset": "RX 9060 XT",
-            "VRAM": "16GB"
-        },
-        {
-            "Brand": "ONDA",
-            "Chipset": "GT 730K",
-            "VRAM": "2GB"
-        },
-        {
-            "Brand": "MAXSUN",
-            "Chipset": "RTX 5060",
-            "VRAM": "8GB"
-        },
-        {
             "Brand": "NINJA",
             "Chipset": "RX 580",
             "VRAM": "8GB"
@@ -3643,6 +3643,56 @@
         {
             "Brand": "DELL",
             "Chipset": "RTX 4080",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "BIOSTAR",
+            "Chipset": "RX 580",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "NVIDIA PRO 2000",
+            "VRAM": "16GB"
+        },
+        {
+            "Brand": "MAXSUN",
+            "Chipset": "GT 710",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "NVIDIA",
+            "Chipset": "RTX PRO 6000",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "Geforce GT 1030",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "Geforce GT 1030",
+            "VRAM": "4GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "GT 610",
+            "VRAM": "2GB"
+        },
+        {
+            "Brand": "OCPC",
+            "Chipset": "RX 6500",
+            "VRAM": "8GB"
+        },
+        {
+            "Brand": "DELL",
+            "Chipset": "NVIDIA L20",
+            "VRAM": "48GB"
+        },
+        {
+            "Brand": "ADVANTECH",
+            "Chipset": "RTX 2000",
             "VRAM": "16GB"
         }
     ]
